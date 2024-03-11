@@ -1,4 +1,4 @@
 # 💻 Website Moda Ora 
 
-# 💻 Desenvolvido com 
+# 💻 Desenvolvido com HTML e CSS.
  
